@@ -4,17 +4,13 @@ A simple and responsive Weather App that shows real-time weather data using the 
 
 ## 🔗 Live Demo
 
-[View Live](https://your-username.github.io/weather-app/)
+[View Live](https://github.com/moulabidudekula/Weather_App.git)
 
-> Replace the above link with your actual GitHub Pages link after deployment.
 
----
-
-## 📸 Screenshots
-
-![Weather App Screenshot](./assets/screenshot.png)
 
 ---
+
+
 
 ## 🚀 Features
 
